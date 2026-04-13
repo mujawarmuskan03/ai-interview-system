@@ -36,9 +36,12 @@ AI_Interview_System/ │ ├── app.py ├── questions.py ├── analy
  pip install flask
 2. Run The Project:
  python app.py
-3. Open in Browser:
- http://127.0.0.1:5000/
+3. Open in browser:
 
+After running the Flask server, open your browser and go to:
+http://127.0.0.1:5000/
+
+(Note: This works only on your local machine)
 ---
 
 ## 📸 Screenshots
