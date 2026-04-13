@@ -44,6 +44,16 @@ AI_Interview_System/ │ ├── app.py ├── questions.py ├── analy
 ## 📸 Screenshots
 
 (Add screenshots here after running project)
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](home.png)
+
+### 💻 Interview Screen
+![Interview](interview.png)
+
+### 🎉 Result Page
+![Result](result.png)
 
 ---
 
