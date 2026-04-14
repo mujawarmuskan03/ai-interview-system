@@ -61,7 +61,7 @@ http://127.0.0.1:5000/
 ---
 
 ## Live Demo
-https://ai-interview-system-7jio.onrender.com/resul
+https://ai-interview-system-7jio.onrender.com
 
 ---
 
